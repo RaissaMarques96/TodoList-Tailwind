@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {},
+    {
+      "id": "0ea76fc3-afbe-4ba1-b218-3bce9799cc1a",
+      "task": "comer",
+      "done": false
+    },
+    {
+      "id": "5f283844-f09d-4b36-ab58-c53adfdc3a33",
+      "task": "correr",
+      "done": false
+    },
+    {
+      "id": "9b2094d2-2515-4e6e-bf71-b27be4471ea8",
+      "task": "feito",
+      "done": false
+    }
+  ]
+}
